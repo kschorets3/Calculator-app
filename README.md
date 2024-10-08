@@ -1,4 +1,1 @@
-"# Calculator-app" 
-"# Calculator-app" 
-"# Calculator-app" 
-"# Calculator-app" 
+This project is a simple calculator application built using Python and the CustomTkinter library. The calculator provides a user interface with a dark theme and offers both basic arithmetic operations and some advanced mathematical functions.
